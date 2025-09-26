@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://heshamjarmakani.github.io/cv/
+permalink: /cv/
 author_profile: true
 ---
 
