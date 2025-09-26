@@ -22,13 +22,13 @@ main:
   #   url: /year-archive/
 
   - title: "CV"
-    url: /cv/
+    url: "https://heshamjarmakani.github.io/cv/"
 
   # - title: "Projects"
   #   url: /title/
 
-  - title: "CV"
-    url: /cv-json/
+ # - title: "CV"
+ #   url: /cv-json/
 
   # - title: "Guide"
   #   url: /markdown/
