@@ -8,7 +8,8 @@
       "city": "Oakland",
       "countryCode": "US",
       "region": "California"
-    },
+    }
+  },
   "work": [],
   "education": [
     {
@@ -17,7 +18,7 @@
       "studyType": "Master's",
       "startDate": "Fall 2024",
       "endDate": "Spring 2026",
-      "gpa": "4.0" []
+      "gpa": "4.0"
     },
     {
       "institution": "UC Berkeley",
@@ -25,10 +26,10 @@
       "studyType": "Undergraduate",
       "startDate": "Fall 2019",
       "endDate": "Fall 2021",
-      "gpa": "3.86" []
+      "gpa": "3.86"
     }
   ],
-  "skills": "Python" , "R", "Stata", "ArcGIS" [],
-  "languages": "Arabic", "English" [],
-  "interests": "Coding", "Drumming", "Football (i.e., Soccer)" [],
-  
+  "skills": ["Python", "R", "Stata", "ArcGIS"],
+  "languages": ["Arabic", "English"],
+  "interests": ["Coding", "Drumming", "Football (i.e., Soccer)"]
+}
