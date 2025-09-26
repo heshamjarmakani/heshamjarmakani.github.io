@@ -23,7 +23,7 @@ repository               : "https://github.com/heshamjarmakani/heshamjarmakani.g
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "230418733.png"
   name             : "Hesham"
   pronouns         : "he/him"  
   bio              : "Hesham is a student at UC Berkeley that is learning Python and other cool things!"
