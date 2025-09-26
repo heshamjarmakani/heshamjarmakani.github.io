@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-# Type stuff about me
+Hesham is a student at UC Berkeley
