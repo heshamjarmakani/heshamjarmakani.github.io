@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Description: GitHub collaboration practice
+Currently working on some stuff in GitHub. 
+It's kinda confusing, but I'm getting the hang of it!
